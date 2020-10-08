@@ -6,7 +6,7 @@
    <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
-    <title>{{ config('app.name', 'Lokanthali Wellness Clinic') }}</title>
+    <title>{{ config('app.name', 'Bestshine Welfare Clinic') }}</title>
     <link href="{{ asset('css/bootstrap.min.css')}}" rel="stylesheet" crossorigin="anonymous">
     <link href="{{ asset('css/datepicker3.css')}}" rel="stylesheet">
     <link href="{{ asset('css/bootstrap-table.css')}}" rel="stylesheet">
